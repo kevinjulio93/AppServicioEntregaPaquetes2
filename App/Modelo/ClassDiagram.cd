@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="App.Modelo.Person" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAMgAAACgQAAAIEAIAGAAAABAAAAgA=</HashCode>
+      <FileName>Modelo\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.Package" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAEgAAgCBAAIGAQAIBgAAAAAAAIAAA=</HashCode>
+      <FileName>Modelo\Package.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.TwoDayPackage" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAEAAAABAAAAA=</HashCode>
+      <FileName>Modelo\TwoDayPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App.Modelo.OvernightPackage" Collapsed="true">
+    <Position X="9" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo\OvernightPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
